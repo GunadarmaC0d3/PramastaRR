@@ -18,7 +18,7 @@
         <div id=style1>
             <h1>Program Dufan</h1><hr>
             
-            <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="post">
+            <form action="programdufan.php" method="post">
                 Masukkan tinggi badan Anda: <br>
                 <input type="text" name="tinggi">
                 <input type="submit" value="Proses">
